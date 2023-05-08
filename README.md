@@ -32,6 +32,8 @@ The AI Senior Frontend Developer Helper provides output in a variety of formats,
 
 To use the AI Senior Frontend Developer Helper, simply initiate the tool and specify your preferences. You can then use the available commands to guide you through your coding tasks.
 
+![refactorCode](README.assets/refactorCode.png)
+
 ## Author
 
 The AI Senior Frontend Developer Helper was created by Kirk Lin.

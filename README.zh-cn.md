@@ -92,3 +92,5 @@
 - 运行程序后，AI助手将会问您的偏好，然后您可以使用命令与它交互。
 - 您可以使用/language命令更改AI助手的语言。
 - 您可以使用/config命令更改您的偏好设置。
+
+![refactorCode](README.assets/refactorCode.png)
